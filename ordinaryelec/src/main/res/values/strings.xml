@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">OrdinaryElec</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_in_local">search in local</string>
+    <string name="search_in_web">search in web</string>
+
+
+    <string name="reward">打赏</string>
+    <string name="account">支付宝账号\n\n760078965@qq.com</string>
+    <string name="accout_">760078965@qq.com</string>
+    <string name="copy_accout">复制账号</string>
+    <string name="copied">已复制</string>
+    <string name="url">http://fanyi.youdao.com/openapi.do?</string>
+    <string name="check_network">请检查网络连接</string>
+    <string name="input_text">请输入要查询的文本</string>
+    <string name="loading">加载中...</string>
+    <array name="key">
+        <item>1612287005</item>
+        <item>1310810993</item>
+        <item>1310810991</item>
+        <item>720121073</item>
+        <item>1755541118</item>
+    </array>
+    <array name="key_form">
+        <item>fgfdgdfg</item>
+        <item>asd54645654</item>
+        <item>asd54645656</item>
+        <item>asd5464</item>
+        <item>a5464dd</item>
+    </array>
+</resources>
